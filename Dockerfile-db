@@ -6,4 +6,4 @@ ENV MYSQL_ROOT_PASSWORD mypassword
 
 COPY ./sql-scripts/ /docker-entrypoint-initdb.d/
 
-
+#HOLA
